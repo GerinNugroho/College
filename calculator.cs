@@ -17,6 +17,7 @@ namespace CalculatorConsoleApp
             Console.WriteLine("2. Pengurangan");
             Console.WriteLine("3. Perkalian");
             Console.WriteLine("4. Pembagian");
+			Console.WriteLine("Gerin");
 
             Console.WriteLine();
 
