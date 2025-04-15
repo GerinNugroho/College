@@ -79,26 +79,35 @@ bool ListProduct(int limit)
 bool SearchProduct(int limit)
 {
  system("cls");
+ int userinput;
  cout << "============ Cari Barang ============" << endl;
  cout << endl;
- cin.ignore();
  if (limit < 1)
  {
+  cin.ignore();
   cout << "Inputkan data barang terlebih dahulu...";
   cin.get();
   return false;
  }
 
+ cout << "Masukkan ID Barang: ";
+ cin >> userinput;
+
  for (int i = 0; i < limit; i++)
  {
-  cout << "ID: " << Product[i].Id << endl;
-  cout << "Nama: " << Product[i].Name << endl;
-  cout << "Harga: " << Product[i].Price << endl;
-  cout << "Stok: " << Product[i].Stock << endl;
-  cout << "Tekan enter untuk lanjut...";
-  cin.get();
-  return false;
+  if (Product[i].Id == userinput)
+  {
+   cout << "ID: " << Product[i].Id << endl;
+   cout << "Nama: " << Product[i].Name << endl;
+   cout << "Harga: " << Product[i].Price << endl;
+   cout << "Stok: " << Product[i].Stock << endl;
+   cin.ignore();
+   cout << "Tekan enter untuk lanjut...";
+   cin.get();
+   return false;
+  }
  }
+ cin.ignore();
  cout << "Barang Tidak Ditemukan...";
  cin.get();
 };
