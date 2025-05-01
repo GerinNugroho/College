@@ -1,0 +1,14 @@
+D:\work\platform\Ticket(Constructor)\bin\Debug\net8.0\Ticket(Constructor).exe
+D:\work\platform\Ticket(Constructor)\bin\Debug\net8.0\Ticket(Constructor).deps.json
+D:\work\platform\Ticket(Constructor)\bin\Debug\net8.0\Ticket(Constructor).runtimeconfig.json
+D:\work\platform\Ticket(Constructor)\bin\Debug\net8.0\Ticket(Constructor).dll
+D:\work\platform\Ticket(Constructor)\bin\Debug\net8.0\Ticket(Constructor).pdb
+D:\work\platform\Ticket(Constructor)\obj\Debug\net8.0\Ticket(Constructor).GeneratedMSBuildEditorConfig.editorconfig
+D:\work\platform\Ticket(Constructor)\obj\Debug\net8.0\Ticket(Constructor).AssemblyInfoInputs.cache
+D:\work\platform\Ticket(Constructor)\obj\Debug\net8.0\Ticket(Constructor).AssemblyInfo.cs
+D:\work\platform\Ticket(Constructor)\obj\Debug\net8.0\Ticket(Constructor).csproj.CoreCompileInputs.cache
+D:\work\platform\Ticket(Constructor)\obj\Debug\net8.0\Ticket(Constructor).dll
+D:\work\platform\Ticket(Constructor)\obj\Debug\net8.0\refint\Ticket(Constructor).dll
+D:\work\platform\Ticket(Constructor)\obj\Debug\net8.0\Ticket(Constructor).pdb
+D:\work\platform\Ticket(Constructor)\obj\Debug\net8.0\Ticket(Constructor).genruntimeconfig.cache
+D:\work\platform\Ticket(Constructor)\obj\Debug\net8.0\ref\Ticket(Constructor).dll

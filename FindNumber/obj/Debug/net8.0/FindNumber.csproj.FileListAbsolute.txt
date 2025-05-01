@@ -1,0 +1,14 @@
+D:\work\platform\FindNumber\bin\Debug\net8.0\FindNumber.exe
+D:\work\platform\FindNumber\bin\Debug\net8.0\FindNumber.deps.json
+D:\work\platform\FindNumber\bin\Debug\net8.0\FindNumber.runtimeconfig.json
+D:\work\platform\FindNumber\bin\Debug\net8.0\FindNumber.dll
+D:\work\platform\FindNumber\bin\Debug\net8.0\FindNumber.pdb
+D:\work\platform\FindNumber\obj\Debug\net8.0\FindNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\platform\FindNumber\obj\Debug\net8.0\FindNumber.AssemblyInfoInputs.cache
+D:\work\platform\FindNumber\obj\Debug\net8.0\FindNumber.AssemblyInfo.cs
+D:\work\platform\FindNumber\obj\Debug\net8.0\FindNumber.csproj.CoreCompileInputs.cache
+D:\work\platform\FindNumber\obj\Debug\net8.0\FindNumber.dll
+D:\work\platform\FindNumber\obj\Debug\net8.0\refint\FindNumber.dll
+D:\work\platform\FindNumber\obj\Debug\net8.0\FindNumber.pdb
+D:\work\platform\FindNumber\obj\Debug\net8.0\FindNumber.genruntimeconfig.cache
+D:\work\platform\FindNumber\obj\Debug\net8.0\ref\FindNumber.dll

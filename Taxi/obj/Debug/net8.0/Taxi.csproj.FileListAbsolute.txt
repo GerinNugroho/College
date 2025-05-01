@@ -1,0 +1,14 @@
+D:\work\platform\Taxi\bin\Debug\net8.0\Taxi.exe
+D:\work\platform\Taxi\bin\Debug\net8.0\Taxi.deps.json
+D:\work\platform\Taxi\bin\Debug\net8.0\Taxi.runtimeconfig.json
+D:\work\platform\Taxi\bin\Debug\net8.0\Taxi.dll
+D:\work\platform\Taxi\bin\Debug\net8.0\Taxi.pdb
+D:\work\platform\Taxi\obj\Debug\net8.0\Taxi.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\platform\Taxi\obj\Debug\net8.0\Taxi.AssemblyInfoInputs.cache
+D:\work\platform\Taxi\obj\Debug\net8.0\Taxi.AssemblyInfo.cs
+D:\work\platform\Taxi\obj\Debug\net8.0\Taxi.csproj.CoreCompileInputs.cache
+D:\work\platform\Taxi\obj\Debug\net8.0\Taxi.dll
+D:\work\platform\Taxi\obj\Debug\net8.0\refint\Taxi.dll
+D:\work\platform\Taxi\obj\Debug\net8.0\Taxi.pdb
+D:\work\platform\Taxi\obj\Debug\net8.0\Taxi.genruntimeconfig.cache
+D:\work\platform\Taxi\obj\Debug\net8.0\ref\Taxi.dll
